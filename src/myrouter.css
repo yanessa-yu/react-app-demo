@@ -1,0 +1,24 @@
+
+
+#left ul{
+    float: left;
+    width: 200px;
+    margin-right: 20px;
+    height: 500px;
+}
+
+#left {
+    height: 500px;
+}
+
+#left ul li {
+    border: 1px solid red;
+    list-style-type: none;
+}
+
+#right form {
+    border:1px solid mediumvioletred;
+    margin-left: 260px;
+    margin-right: 20px;
+    padding: 10px;
+}
